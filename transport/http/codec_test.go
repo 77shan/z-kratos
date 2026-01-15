@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/go-kratos/kratos/v2/encoding"
-	"github.com/go-kratos/kratos/v2/errors"
+	"github.com/77shan/go-gen-errors/kratos/v2/encoding"
+	"github.com/77shan/go-gen-errors/kratos/v2/errors"
 )
 
 func TestDefaultRequestDecoder(t *testing.T) {

@@ -17,9 +17,9 @@ import (
 	"testing"
 	"time"
 
-	kratoserrors "github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-kratos/kratos/v2/internal/host"
-	"github.com/go-kratos/kratos/v2/log"
+	kratoserrors "github.com/77shan/go-gen-errors/kratos/v2/errors"
+	"github.com/77shan/go-gen-errors/kratos/v2/internal/host"
+	"github.com/77shan/go-gen-errors/kratos/v2/log"
 )
 
 var h = func(w http.ResponseWriter, r *http.Request) {

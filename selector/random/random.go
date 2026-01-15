@@ -4,8 +4,8 @@ import (
 	"context"
 	"math/rand/v2"
 
-	"github.com/go-kratos/kratos/v2/selector"
-	"github.com/go-kratos/kratos/v2/selector/node/direct"
+	"github.com/77shan/go-gen-errors/kratos/v2/selector"
+	"github.com/77shan/go-gen-errors/kratos/v2/selector/node/direct"
 )
 
 const (

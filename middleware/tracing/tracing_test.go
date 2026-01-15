@@ -12,8 +12,8 @@ import (
 	tracesdk "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"
 
-	"github.com/go-kratos/kratos/v2/log"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/77shan/go-gen-errors/kratos/v2/log"
+	"github.com/77shan/go-gen-errors/kratos/v2/transport"
 )
 
 var _ transport.Transporter = (*mockTransport)(nil)

@@ -9,10 +9,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/go-kratos/kratos/v2/encoding"
-	"github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-kratos/kratos/v2/internal/httputil"
-	"github.com/go-kratos/kratos/v2/transport/http/binding"
+	"github.com/77shan/go-gen-errors/kratos/v2/encoding"
+	"github.com/77shan/go-gen-errors/kratos/v2/errors"
+	"github.com/77shan/go-gen-errors/kratos/v2/internal/httputil"
+	"github.com/77shan/go-gen-errors/kratos/v2/transport/http/binding"
 )
 
 // SupportPackageIsVersion1 These constants should not be referenced from any other code.

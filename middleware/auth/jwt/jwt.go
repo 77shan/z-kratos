@@ -7,9 +7,9 @@ import (
 
 	"github.com/golang-jwt/jwt/v5"
 
-	"github.com/go-kratos/kratos/v2/errors"
-	"github.com/go-kratos/kratos/v2/middleware"
-	"github.com/go-kratos/kratos/v2/transport"
+	"github.com/77shan/go-gen-errors/kratos/v2/errors"
+	"github.com/77shan/go-gen-errors/kratos/v2/middleware"
+	"github.com/77shan/go-gen-errors/kratos/v2/transport"
 )
 
 type authKey struct{}

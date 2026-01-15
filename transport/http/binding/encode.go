@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/go-kratos/kratos/v2/encoding/form"
+	"github.com/77shan/go-gen-errors/kratos/v2/encoding/form"
 )
 
 var reg = regexp.MustCompile(`{[\\.\w]+}`)
